@@ -7,6 +7,8 @@ Python Project 2_Machine Learning:
   The Dataset: The dataset includes details of 346 customers whose loan are already paid off or defaulted. 
 
 
+
+
 Python Project1:
 
   Consumers' Assessment of Hospitals across the U.S.
